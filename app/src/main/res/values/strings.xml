@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">BOOKSAL</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_notelepon">No Telepon</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Masukkan Nama Valid</string>
+    <string name="error_message_email">Masukkan Email Valid</string>
+    <string name="error_message_age">Masukkan Tanggal Lahir</string>
+    <string name="error_message_password">Masukkan Password</string>
+    <string name="success_message">Registrasi Sukses</string>
+    <string name="text_not_member">Tidak punya akun? Daftar</string>
+    <string name="text_already_member">Sudah Punya Akun? Masuk</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">User Lists</string>
+    <string name="hint_tanggallahir">Tanggal Lahir</string>
+    <string name="hint_jabatan">Jabatan</string>
+    <string name="error_message_jabatan">Wrong jabatan</string>
+    <string name="Lapangan1"> Makanan Bakso adalah Bakso atau baso adalah jenis bola
+        daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari
+        campuran daging sapi giling dan tepung tapioka, akan tetapi ada juga bakso yang
+        terbuat dari daging ayam, ikan, atau udang bahkan daging kerbau. Dalam penyajiannya,
+        bakso umumnya disajikan panas-panas dengan kuah kaldu sapi bening, dicampur mi,
+        bihun, taoge, tahu, terkadang telur dan ditaburi bawang goreng dan seledri. Bakso
+        sangat populer dan dapat ditemukan di seluruh Indonesia.</string>
+    <string name="Lapangan2"> adalah sebuah makanan yang oleh masyarakat indonesia
+        di sebut dengan Nasi Kuning. Makanan khas indonesia yang satu ini merupakan sebuah
+        masakan indonesia yang di buat dari beras, santan, kunyit dan beberapa bumbu rempahrempah yang tentunya sangat khas ala indonesia. Tentu dengan beberapa perpaduan yang
+        telah kita sebutkan tadi membuat makanan khas indonesia bernama Nasi Kuning semakin
+        gurih saja.</string>
+    <string name="lapangan3"> adalah sebuah makanan yang cukup banyak di jual di
+        beberapa tempat makan yang ada di Indonesia, pasalnya Ketoprak adalah makanan khas
+        indonesia yang cukup dekat dengan masyarakat luas atau bisa di katakan makanan
+        indonesia yang satu ini sangat merakyat. Ketoprak sangat erat kaitannya dengan
+        ketupat, pasalnya sebagaian besar Ketoprak yang di sajikan di indonesia ini di
+        hadirkan dengan menggunkan ketupat.</string>
+    <string name="lapangann1" />
+    <string name="lapangann2" />
+    <string name="lapangann3" />
+    <string name="lapangann" />
+    <string name="lapangan1" />
+    <string name="lapangan2" />
+</resources>

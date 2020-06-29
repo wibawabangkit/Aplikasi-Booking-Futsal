@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imglapangan" type="id" />
+    <item name="txtlapangan" type="id" />
+    <item name="txtwaktu" type="id" />
+    <item name="txtdetaillapangan" type="id" />
+    <item name="txtdetailnamalapangan" type="id" />
+    <item name="txtdetailhargalapangan" type="id" />
+    <item name="whatsapp" type="id" />
+    <item name="imgdetaillapangan" type="id" />
+    <item name="imgmakanan" type="id" />
+    <item name="txthargalapangan" type="id" />
+</resources>
